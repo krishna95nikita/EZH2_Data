@@ -10,7 +10,7 @@ A sequential computational pipeline integrating machine learning classification,
 
 ✅ **Molecular Docking** — Glide XP docking against EZH2 crystal structure (PDB: 5WG6)
 
-![image alt](https://github.com/krishna95nikita/EZH2_Data/blob/a1dda7931c8715a6c340b67640f476bb3e6aafca/graphical_abstract.jpg)
+![image alt](https://github.com/graphical_abstract.jpg)
 
 
 ## Installation & Dependencies ##
