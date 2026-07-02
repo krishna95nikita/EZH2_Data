@@ -23,4 +23,4 @@ A sequential computational pipeline integrating machine learning classification,
 
 ✅PaDEL-Descriptor — download separately
 
-✅Schrödinger Maestro (licensed) — required for pharmacophore modelling and molecular docking steps
+✅Schrödinger Maestro (licensed) — required for pharmacophore modelling and molecular docking steps.
